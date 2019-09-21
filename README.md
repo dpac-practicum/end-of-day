@@ -15,7 +15,7 @@ The submission process will look like this:
 4. If changes are requested, you can make changes to the same branch and they will be added to the PR.
 5. Once everything is complete, I will merge the branch to master and you'll be done!
 
-Here is a more detailed explanation on [how to submit]() your code.  
+Here is a more detailed explanation on [how to submit](https://github.com/dpac-practicum/Submitting#submitting-tasks) your code.  
 Here is more information about [Github Flow](https://guides.github.com/introduction/flow/) if you're interested.
 
 ---
