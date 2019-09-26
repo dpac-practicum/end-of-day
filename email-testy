@@ -1,1 +1,9 @@
-
+$From = "kyoung@docomopacific.com"
+$To = "sresendez@docomopacific.com"
+$Cc = "kyoung@docomopacific.com"
+$Attachment = "C:\email\attachment.txt"
+$Subject = "Test"
+$Body = "I'm just informing you that I'll be leaving for the day"
+$SMTPServer = "smtp-mail.outlook.com"
+$SMTPPort = "587"
+Send-MailMessage -From $From -to $To -Cc $Cc -Subject $Subject -Body $Body -SmtpServer $SMTPServer -port $SMTPPort -UseSsl -Credential (Get-Credential) -Attachments $Attachment –DeliveryNotificationOption OnSuccess
