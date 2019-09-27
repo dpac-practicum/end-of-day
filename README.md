@@ -22,14 +22,9 @@ Here is more information about [Github Flow](https://guides.github.com/introduct
 
 ## Installation
 
-\<Fill this in with information on how to install your software on whatever OS(s) you are supporting\>
-
 kyoung671 -  No Additional installation required.
 
 ## Usage
-
-\<Fill this in with information on how users can run your script.\>  
-\<Describe configuration options if there are any, however, do not ask users to modify your source code.\>
 
 kyoung671 - How to Run script using task scheduler
 1. open task scheduler under local admin
