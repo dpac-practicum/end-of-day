@@ -22,12 +22,15 @@ Here is more information about [Github Flow](https://guides.github.com/introduct
 
 ## Installation
 
-\<Fill this in with information on how to install your software on whatever OS(s) you are supporting\>
+Python 3 is required to run this script.
 
 ## Usage
-
-\<Fill this in with information on how users can run your script.\>  
-\<Describe configuration options if there are any, however, do not ask users to modify your source code.\>
+**RUN MANUALLY:
+-Run this script on Python IDLE
+**SCHEDULED:
+-Use Windows Task Scheduler
+-Click on the link for the steps on how to create and schedule a task
+(https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
 
 
 
